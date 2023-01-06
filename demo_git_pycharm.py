@@ -15,6 +15,6 @@ def myfunction_multiply(x,y):
     return multipli
 
 add = myfunction_sum(10,20)
-multipli = myfunction_multipli(10,20)
+multipli = myfunction_multiply(10,20)
 print("Sum =",add)
 print("Multiply =",multipli)
